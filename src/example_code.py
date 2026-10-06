@@ -1,7 +1,7 @@
 def main():
     print('=' * 20)
     print('=' * 20)
-    print('OCTOPUS - Only Cats Tear Out Pieces Of Setee')
+    print('OCTOPUS - Octopus oCtopus ocTopus octOpus octoPus octopUs octopuS')
     print('=' * 20)
     print('=' * 20)
 
